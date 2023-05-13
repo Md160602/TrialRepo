@@ -1,2 +1,6 @@
 This is remote file edit 
+<<<<<<< Updated upstream
 edit by dev
+=======
+Hey buddy
+>>>>>>> Stashed changes
